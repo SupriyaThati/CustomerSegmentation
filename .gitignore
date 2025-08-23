@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+ENV/
+*.env
+
+# Data files
+*.csv
+*.xlsx
+
+# Model files (optional – keep them if needed for Render)
+# *.pkl
+# *.joblib
+
+# Docs
+*.pdf
+*.docx
+*.pptx
+
+# OS
+.DS_Store
+Thumbs.db
