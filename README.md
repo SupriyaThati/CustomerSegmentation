@@ -1,0 +1,3 @@
+This project focuses on building machine learning models for smart customer segmentation, helping businesses improve efficiency and engagement. Instead of one-size-fits-all strategies, a data-driven approach is used to identify distinct customer groups.
+We explored K-Means and Mean Shift clustering (with DBSCAN for comparison) on mall customer data using features like annual income, spending score, and age. The goal is to classify customers into actionable segments and provide tailored recommendations for business growth.
+The best-performing models were trained, evaluated, and serialized, then integrated into a Flask-based web application. This interface allows real-time customer classification and delivers immediate insights to business owners.
